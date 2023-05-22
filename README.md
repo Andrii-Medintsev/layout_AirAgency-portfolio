@@ -5,7 +5,7 @@ Adaptive landing page
 - HTML,
 - Adaptive/responsive Css,
 - SASS,
-- Js,
+- Javascript,
 - Bem, 
 - Git
 
