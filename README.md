@@ -9,6 +9,6 @@ Adaptive landing page
 - Bem, 
 - Git
 
-[DEMO LINK](https://andrii-medintsev.github.io/layout_dia-portfolio/)
+[DEMO LINK](https://andrii-medintsev.github.io/layout_AirAgency-portfolio/)
 
 [FIGMA DESIGN](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
