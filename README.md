@@ -1,4 +1,4 @@
-# Dia landing page
+# AirAgency landing page
 
 Adaptive landing page
 ## Used technoligies:
